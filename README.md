@@ -1,4 +1,6 @@
-### Hi there 👋
+### <img src="https://media.giphy.com/media/l15xvlS8trI0vLQIWb/giphy.gif" alt="Hi.gif" width="20px"> Hi there
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=imrdong&show_icons=true&theme=dark)
 
 <!--
 **imrdong/imrdong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
